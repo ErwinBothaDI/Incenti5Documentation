@@ -1,0 +1,302 @@
+{"0": {
+    "doc": "Incentivisor",
+    "title": "Incentivisor",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Incentivisor",
+    "relUrl": "/docs/Incentivisor"
+  },"1": {
+    "doc": "Create Playlist",
+    "title": "Create Playlist",
+    "content": "In order to create a new playlist, the playlist must first be given a name. Once the playlist has been named media can now be added by selecting the add media option. To add media to the newly created playlist a user must click the upload button, this will open the computers file explorer. Multiple files can now be selected to upload to the playlist. ",
+    "url": "http://localhost:4000/docs/MediaPlaylists/add-playlist.html",
+    "relUrl": "/docs/MediaPlaylists/add-playlist.html"
+  },"2": {
+    "doc": "Customer Enquiry",
+    "title": "Customer Enquiry",
+    "content": "The customer enquiry section gives the user a detailed overview of an account holders information. A user is able to search for a customer via account number or card number. The user is also able to check a customers current points balance by card or account number. The visits enquiry shows how many times a specific customer has visited in a period. The qualification’s tab shows a list of all currently active promotions and the customers qualification’s against each currently active promotion. ",
+    "url": "http://localhost:4000/docs/CustomerEnquiry",
+    "relUrl": "/docs/CustomerEnquiry"
+  },"3": {
+    "doc": "Draw Injection",
+    "title": "Draw Injection",
+    "content": "The covid draw injection allows the user to generate tickets to be claimed remotely, this can be done for multiple customers in a batch or for a single customer account. Tickets can be injected into a single account by using the customer account number. Tickets can be injected into multiple accounts by uploading a CSV file containing the desired account numbers. ",
+    "url": "http://localhost:4000/docs/DrawInjection",
+    "relUrl": "/docs/DrawInjection"
+  },"4": {
+    "doc": "Electronic Draw",
+    "title": "Electronic Draw",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ElectronicDraw",
+    "relUrl": "/docs/ElectronicDraw"
+  },"5": {
+    "doc": "Group Management",
+    "title": "Group Management",
+    "content": "The group section allows users to create a list of customers from an external source by uploading a CSV file containing the account numbers of the desired customer, the group is created for the purpose of targeting specific customers against specific promotions. Groups can be edited or removed directly from the list of groups by clicking the actions icon and selecting the appropriate option. ",
+    "url": "http://localhost:4000/docs/GroupManagement",
+    "relUrl": "/docs/GroupManagement"
+  },"6": {
+    "doc": "Create Groups",
+    "title": "Creating Groups",
+    "content": "In order to create a group, a name must first be assigned to the respective group. Once the group has been given a name, an expiry date must be specified. Groups can only be targeted in promotions prior to the date of expiry, the group will no longer be targetable after it has expired. Users can select customers directly from within the system, or upload a CSV file containing the account numbers of the desired customers. An example of the correct CSV format: . 1000000001, 1000000002, 1000000003, 1000000004, 1000000005, 1000000006, 1000000007, 1000000008, . ",
+    "url": "http://localhost:4000/docs/GroupManagement/groups-create.html#creating-groups",
+    "relUrl": "/docs/GroupManagement/groups-create.html#creating-groups"
+  },"7": {
+    "doc": "Create Groups",
+    "title": "Create Groups",
+    "content": " ",
+    "url": "http://localhost:4000/docs/GroupManagement/groups-create.html",
+    "relUrl": "/docs/GroupManagement/groups-create.html"
+  },"8": {
+    "doc": "Configure Incentivisor Areas",
+    "title": "Configure Incentivisor Areas",
+    "content": "The Incentivisor can be set so that the configuration can only be applied to specific areas. Customers will only be able to earn points towards incentives in the areas selected below. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-areas.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-areas.html"
+  },"9": {
+    "doc": "Configure Incentivisor Criteria",
+    "title": "Configure Incentivisor Criteria",
+    "content": "Below we can add prizes to the Incentivisor, we can also configure whether or not prizes can be purchased with points. To add a prize, click the add prize button and select one of the prizes from the existing prize repository. Below is a list of prizes added to the Incentivisor, these prizes can be added, removed or disabled. - . The amount of points required to redeem prizes can be configured by tier. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-criteria.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-criteria.html"
+  },"10": {
+    "doc": "Configure Incentivisor Details",
+    "title": "Configure Incentivisor Details",
+    "content": "Under details we can change the name of our Incentivisor, as well as the rules. We can also specify whether the outcome of our Incentivisor draw is redeemable directly from the outlet. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-details.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-details.html"
+  },"11": {
+    "doc": "Configure Incentivisor Participants",
+    "title": "Configure Incentivisor Participants",
+    "content": "Participants allows us to configure who is eligible to partake in the Incentivisor. This can be configured by tier or by group. We can also add special filters to the Incentivisor, allowing us to create additional criteria for customers to qualify for. All special filter requirements must be met for a customer to qualify. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-participants.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-participants.html"
+  },"12": {
+    "doc": "Configure Incentivisor Period",
+    "title": "Configure Incentivisor Period",
+    "content": "The period allows us to specify the earning period of the Incentivisor, points will not be accumulated after the earning period has expired. We can also configure the issuing period, items may not be issued after this period has expired. We can also configure when the promotion item expires. Expired promotions will no longer be shown on kiosks. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-period.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-period.html"
+  },"13": {
+    "doc": "Configure Incentivisor Prizes",
+    "title": "Configure Incentivisor Prizes",
+    "content": "Here we select and upload prizes for the Incentivisor. In order to upload a new prize we need to select the upload button, this will open the file explorer where we can select the desired prize media. Once a prize has been selected it can be further configured. The prize name can be changed, as well as the cost of the prize to the casino and the value of the prize to the customer. The prize quantity can also be set. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-prizes.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-prizes.html"
+  },"14": {
+    "doc": "Configure Incentivisor Settings",
+    "title": "Configure Incentivisor Settings",
+    "content": "Below we can configure wether or not a customer is able to claim all the prizes from the Incetivisor, if this option is disabled a customer is only allowed to choose one prize from the Incentivisor. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Incentivisor/incentivisor-settings.html",
+    "relUrl": "/docs/PromotionManagement/Incentivisor/incentivisor-settings.html"
+  },"15": {
+    "doc": "Create Kiosk Groups",
+    "title": "Create Kiosk Groups",
+    "content": "Kiosk Groups allow us to group together multiple kiosks and configure the games that are attached to them. By clicking the add kiosk button we are able to select which kiosks we would like to group together. After all kiosks have been grouped together we can configure the kiosk settings for the group by selecting the appropriate kiosk group settings. Kiosk settings allow us to configure what is shown on the kiosk as well as wether or not the tickets can be reprinted at that kiosk. Kiosks groups can be further customized by selecting which tier of customers can use the kiosk. ",
+    "url": "http://localhost:4000/docs/KioskGroupManagemnt/kiosk-group-create.html",
+    "relUrl": "/docs/KioskGroupManagemnt/kiosk-group-create.html"
+  },"16": {
+    "doc": "Kiosk Group Management",
+    "title": "Kiosk Group Management",
+    "content": "Kiosk Groups allow us to group together multiple kiosks and configure the games that are attached to them. We are also able to configure which tier of customers are able to use which kiosks. ",
+    "url": "http://localhost:4000/docs/KioskGroupManagement",
+    "relUrl": "/docs/KioskGroupManagement"
+  },"17": {
+    "doc": "Kiosk Item Management",
+    "title": "Kiosk Item Management",
+    "content": "This allows us to manage additional items to be displayed on kiosks. Kiosk items can also be modified or removed by selecting the appropriate action. ",
+    "url": "http://localhost:4000/docs/KioskMoreItems",
+    "relUrl": "/docs/KioskMoreItems"
+  },"18": {
+    "doc": "Add Kiosk Items",
+    "title": "Add Kiosk Items",
+    "content": "Here we can configure the URL to be displayed on the kiosk. We can do this by filling in the required details and selecting whether or not we would like to display the new kiosk item on the login screen of the kiosk or on the kiosk itself. Additionally we can customize the color of the url to suit any theming needs. Below is an example of a kiosk item: . ",
+    "url": "http://localhost:4000/docs/KioskMoreItem/kiosk-more-item-add.html",
+    "relUrl": "/docs/KioskMoreItem/kiosk-more-item-add.html"
+  },"19": {
+    "doc": "Manage Permissions",
+    "title": "Manage Permissions",
+    "content": "The roles and permissions screen allows the user to create new roles, as well as edit or remove existing roles. In order to configure a roles permissions, the user needs to select the edit action from the list of roles. By selecting the add button, an admin user is able to create a new role. The user is also able to change or remove the roles of existing users within the system by selecting the the appropriate action from the list of users. ",
+    "url": "http://localhost:4000/docs/User%20Management/manage-permissions.html",
+    "relUrl": "/docs/User%20Management/manage-permissions.html"
+  },"20": {
+    "doc": "Playlist Management",
+    "title": "Playlist Management",
+    "content": "Playlists allows the user to group together various media items, these items can then be shown on any desired kiosk during idle time. Playlists can also be modified or deleted by selecting the appropriate actions. In order to assign a new playlist to a kiosk, the user must navigate to the “assign kiosks” option under the desired playlists actions button. From here, a playlist can be assigned to either individual kiosks or to kiosk groups. ",
+    "url": "http://localhost:4000/docs/PlaylistManagement",
+    "relUrl": "/docs/PlaylistManagement"
+  },"21": {
+    "doc": "Manage Users",
+    "title": "Manage User",
+    "content": "The user management screen lets us view all of the users currently within the system. It also allows us to edit or remove any of the existing user profiles. In order to add a new user, click the add user button and fill in all of the required details. A role can be assigned directly to the newly added user by selecting the desired role from the roles dropdown. Users can also be edited or removed directly from the list of users by selecting the appropriate action from the user actions dropdown. ",
+    "url": "http://localhost:4000/docs/User%20Management/manage-users.html#manage-user",
+    "relUrl": "/docs/User%20Management/manage-users.html#manage-user"
+  },"22": {
+    "doc": "Manage Users",
+    "title": "Manage Users",
+    "content": " ",
+    "url": "http://localhost:4000/docs/User%20Management/manage-users.html",
+    "relUrl": "/docs/User%20Management/manage-users.html"
+  },"23": {
+    "doc": "Configure Manual Draw Details",
+    "title": "Configure Manual Draw Details",
+    "content": "The Manual Draw can be set so that the configuration can be applied only to specific areas. Customers will only be able to earn points towards draw prizes in the areas selected below. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-area.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-area.html"
+  },"24": {
+    "doc": "Configure Manual Draw Criteria",
+    "title": "Configure Manual Draw Criteria",
+    "content": "Manual Draw criteria allows us to select how customers can earn rewards, through points, visits, etc. The amount of entries can be limited by tier or in general. Points earning criteria is fully configurable, points earning can be separated by tables, slots and total. Each of these can be further defined by tier. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-criteria.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-criteria.html"
+  },"25": {
+    "doc": "Configure Manual Draw Details",
+    "title": "Configure Manual Draw Details",
+    "content": "Under details we can change the name of our Manual Draw, as well as the rules. We can also select from a list of custom rule templates provided they have been specified. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-details.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-details.html"
+  },"26": {
+    "doc": "Configure Manual Draw Options",
+    "title": "Configure Manual Draw Options",
+    "content": "Here we can configure the theme of the draw, we can also limit the amount of available tickets for the draw. We can also add and configure prize groups. Below we can configure the amount of available prizes for the draw by selecting one of the existing prizes we have created. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-options.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-options.html"
+  },"27": {
+    "doc": "Configure Manual Draw Participants",
+    "title": "Configure Manual Draw Participants",
+    "content": "Participants allows us to configure who is eligible to partake in the Manual Draw. This can be configured by tier or by group. We can also add special filters to the Manual Draw, allowing us to create additional criteria for customers to qualify for. All special filter requirements must be met for a customer to qualify. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-participants.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-participants.html"
+  },"28": {
+    "doc": "Configure Manual Draw Period",
+    "title": "Configure Manual Draw Period",
+    "content": "The period allows us to specify the earning period of the Manual Draw, points will not be accumulated after the earning period has expired. We can also configure the issuing period, items may not be issued after this period has expired. We can also configure the date of the Manual Draw, the draw will take place on this day. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-period.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-period.html"
+  },"29": {
+    "doc": "Configure Manual Draw Prizes",
+    "title": "Configure Manual Draw Prizes",
+    "content": "Here we select and upload prizes for the Manual Draw. In order to upload a new prize we need to select the upload button, this will open the file explorer where we can select the desired prize media. Once a prize has been selected it can be further configured. The prize name can be changed, as well as the cost of the prize to the casino and the value of the prize to the customer. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ManualDraw/manual-draw-prizes.html",
+    "relUrl": "/docs/PromotionManagement/ManualDraw/manual-draw-prizes.html"
+  },"30": {
+    "doc": "Manual Draw",
+    "title": "Manual Draw",
+    "content": " ",
+    "url": "http://localhost:4000/docs/ManualDraw",
+    "relUrl": "/docs/ManualDraw"
+  },"31": {
+    "doc": "Create Promotion",
+    "title": "Create Promotion",
+    "content": "A new promotion can be created by giving the promotion a name, selecting or creating a custom rules template for the promotion to follow. Once the promotion has been created, you are now able to add promotion items to the promotion. Promotion items define the type of promotion you are creating. Inceti5 allows us to create Electronic draw, Incentivisor, Manual Draw and Vouchers as promotion items. Each of these are fully configurable. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/promotion-create.html",
+    "relUrl": "/docs/PromotionManagement/promotion-create.html"
+  },"32": {
+    "doc": "Configure Electronic Draw Criteria",
+    "title": "Configure Electronic Draw Criteria",
+    "content": "Electronic Draw criteria allows us to select how customers can earn rewards, through points, visits, etc. The amount of entries can be limited by tier or in general. Points earning criteria is fully configurable, points earning can be separated by tables, slots and total. Each of these can be further defined by tier. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ElectronicDraw/promotion-criteria.html",
+    "relUrl": "/docs/PromotionManagement/ElectronicDraw/promotion-criteria.html"
+  },"33": {
+    "doc": "Configure  Electronic Draw Details",
+    "title": "Configure  Electronic Draw Details",
+    "content": "Under details we can change the name of our Electronic Draw, as well as the rules. We can also specify whether the outcome of our Electronic Draw is redeemable directly from the outlet. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ElectronicDraw/promotion-details.html",
+    "relUrl": "/docs/PromotionManagement/ElectronicDraw/promotion-details.html"
+  },"34": {
+    "doc": "Promotion Management",
+    "title": "Promotion Management",
+    "content": "The unauthorized reports section shows all of the currently unauthorized promotions. This section shows a list of all of the currently active and running promotions. This section shows a list of all the currently inactive promotions, promotions will be moved to active section once they have been activated. This section shows a historical view of all past promotions that have been ran. Promotions will automatically be moved to complete once all promotion items have met their set conditions. ",
+    "url": "http://localhost:4000/docs/PromotionManagement",
+    "relUrl": "/docs/PromotionManagement"
+  },"35": {
+    "doc": "Configure Electronic Draw Participants",
+    "title": "Configure Electronic Draw Participants",
+    "content": "Participants allows us to configure who is eligible to partake in the Electronic Draw. This can be configured by tier or by group. We can also add special filters to the Electronic Draw, allowing us to create additional criteria for customers to qualify for. All special filter requirements must be met for a customer to qualify. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ElectronicDraw/promotion-participants.html",
+    "relUrl": "/docs/PromotionManagement/ElectronicDraw/promotion-participants.html"
+  },"36": {
+    "doc": "Configure Electronic Draw Period",
+    "title": "Configure Electronic Draw Period",
+    "content": "The period allows us to specify the earning period of the Electronic Draw, points will not be accumulated after the earning period has expired. We can also configure the issuing period, items may not be issued after this period has expired. We can also configure when the promotion item expires. Expired promotions will no longer be shown on kiosks. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ElectronicDraw/promotion-period-config.html",
+    "relUrl": "/docs/PromotionManagement/ElectronicDraw/promotion-period-config.html"
+  },"37": {
+    "doc": "Reports",
+    "title": "Reports",
+    "content": "Inceti5 delivers detailed reports of everything within the system. Inceti5 also allows for a detailed overview of all promotions and promotion types. ",
+    "url": "http://localhost:4000/docs/Reports",
+    "relUrl": "/docs/Reports"
+  },"38": {
+    "doc": "Reset Password",
+    "title": "Reset Password",
+    "content": "The reset password option allows the user to change their current password. In the event that a user has forgotten their password, they will have to contact a system administrator to recover their password. ",
+    "url": "http://localhost:4000/docs/User%20Management/reset-password.html",
+    "relUrl": "/docs/User%20Management/reset-password.html"
+  },"39": {
+    "doc": "Ticket Cancellation",
+    "title": "Ticket Cancellation",
+    "content": "Ticket cancellation allows the user to cancel tickets from a customers account. In order to cancel a ticket, the game type as well as the current active promotion that the ticket will be cancelled for must be selected. A customer account number must also be supplied in order to remove the ticket from the account. ",
+    "url": "http://localhost:4000/docs/TicketCancellation",
+    "relUrl": "/docs/TicketCancellation"
+  },"40": {
+    "doc": "Ticket Injection",
+    "title": "Ticket Injection",
+    "content": "Ticket injection allows the user to create tickets for customers and inject them directly into the customers account. This can be done by selecting the game type as well as the any of the currently active promotions. Tickets can be injected into multiple accounts by selecting the batch option, a CSV file containing the desired account numbers must be included in the upload. Tickets can also be injected into a single account by supplying an account number. ",
+    "url": "http://localhost:4000/docs/TicketInjection",
+    "relUrl": "/docs/TicketInjection"
+  },"41": {
+    "doc": "User Management",
+    "title": "User Management",
+    "content": "The user management section allows an admin user to add and maintain new or existing users, as well as assign roles and permissions to new or existing users. Existing users are also able to reset their passwords. ",
+    "url": "http://localhost:4000/docs/UserManagement",
+    "relUrl": "/docs/UserManagement"
+  },"42": {
+    "doc": "Register User",
+    "title": "Register User",
+    "content": "To add a new user to the system, the first step is to navigate to the login screen and click the register button. Once all the required information has been filled in, click the sign up button in order to create your new user account. By default, newly created users do not have permissions assigned to their account. An existing admin user will have to sign into the system and give the new user their respective permissions. See Assigning user permissions for more information. ",
+    "url": "http://localhost:4000/docs/User%20Management/user-registration.html",
+    "relUrl": "/docs/User%20Management/user-registration.html"
+  },"43": {
+    "doc": "Configure Voucher Criteria",
+    "title": "Configure Voucher Criteria",
+    "content": "Voucher criteria allows us to select how customers can earn rewards, through points, visits, etc. The amount of entries can be limited by tier or in general. Points earning criteria is fully configurable, points earning can be separated by tables, slots and total. Each of these can be further defined by tier. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Voucher/voucher-criteria.html",
+    "relUrl": "/docs/PromotionManagement/Voucher/voucher-criteria.html"
+  },"44": {
+    "doc": "Configure Voucher Details",
+    "title": "Configure Voucher Details",
+    "content": "Under details we can change the name of our Electronic Draw, as well as the rules. We can also specify whether the outcome of our Electronic Draw is redeemable directly from the outlet. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Voucher/voucher-details.html",
+    "relUrl": "/docs/PromotionManagement/Voucher/voucher-details.html"
+  },"45": {
+    "doc": "Configure Voucher Options",
+    "title": "Configure Voucher Options",
+    "content": "Here we can define the cost/worth of the voucher. We are also able to limit the voucher by the amount of available vouchers. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Voucher/voucher-options.html",
+    "relUrl": "/docs/PromotionManagement/Voucher/voucher-options.html"
+  },"46": {
+    "doc": "Configure Electronic Draw Voucher Options",
+    "title": "Configure Electronic Draw Voucher Options",
+    "content": "We can configure voucher options, by selecting the cost of the voucher and whether or not we would like to limit how many of these vouchers can be claimed by customers. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/ElectronicDraw/voucher-options.html",
+    "relUrl": "/docs/PromotionManagement/ElectronicDraw/voucher-options.html"
+  },"47": {
+    "doc": "Configure Voucher Participants",
+    "title": "Configure Voucher Participants",
+    "content": "Participants allows us to configure who is eligible to receive the voucher. This can be configured by tier or by group. We can also add special filters to the voucher, allowing us to create additional criteria for customers to qualify for. All special filter requirements must be met for a customer to qualify. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Voucher/voucher-participants.html",
+    "relUrl": "/docs/PromotionManagement/Voucher/voucher-participants.html"
+  },"48": {
+    "doc": "Configure Voucher Period",
+    "title": "Configure Voucher Period",
+    "content": "The period allows us to specify the earning period of the voucher, points will not be accumulated after the earning period has expired. We can also configure the issuing period, items may not be issued after this period has expired. We can also configure when the promotion item expires. Expired vouchers will no longer be redeemable. ",
+    "url": "http://localhost:4000/docs/PromotionManagement/Voucher/voucher-period.html",
+    "relUrl": "/docs/PromotionManagement/Voucher/voucher-period.html"
+  },"49": {
+    "doc": "Voucher Promotion",
+    "title": "Voucher Promotion",
+    "content": " ",
+    "url": "http://localhost:4000/docs/Voucher",
+    "relUrl": "/docs/Voucher"
+  }
+}
